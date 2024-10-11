@@ -1,4 +1,9 @@
 body {
+<<<<<<< HEAD
     background:
       url(/assets/bg.jpg) center no-repeat,
   }
+=======
+    background: url(/assets/bg.jpg)
+  }
+>>>>>>> b4275b7cc0fcb4c3483bf359992609a31767ce0a

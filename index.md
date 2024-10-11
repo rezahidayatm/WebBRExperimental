@@ -1,3 +1,7 @@
-<link href="styles/style.css" rel="stylesheet" />
+<style>
+    body {
+    background: center / contain no-repeat url("/assets/bg.jpg");
+  }
+</style>
 
 Halo Semuanya

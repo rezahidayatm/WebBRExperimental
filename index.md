@@ -1,5 +1,3 @@
-<style>
-body {background-color: aqua;}
-</style>
+<link href="styles/style.css" rel="stylesheet" />
 
 Halo Semuanya
